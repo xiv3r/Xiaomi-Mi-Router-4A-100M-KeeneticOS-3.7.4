@@ -11,7 +11,7 @@ Tested on firmware `2.20.20, 2.20.21` and `3.0.129`
 
 - Place lan from the router to the pc
  
-- Run `!Start.bat` , select item `11` . Follow the instructions on the window.
+- Run `!Start.bat` , select item `11` and put your password 12345678. Follow the instructions on the window.
 
 - Run `22` , a backup of your firmware will be created in the data folder. Keep it in a safe place.
 
