@@ -10,7 +10,7 @@ Tested on firmware `2.20.20, 2.20.21` and `3.0.129`
 
 1. Reset the router settings, go through the initial setup and set a password (for further convenience, put `12345678` ).
 
-2. place lan from the router to the pc
+2. Place lan from the router to the pc
  
 3. Run `!Start.bat` , select item `11` . Follow the instructions on the window.
 
