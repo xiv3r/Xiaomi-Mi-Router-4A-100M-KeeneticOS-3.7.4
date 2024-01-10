@@ -2,7 +2,7 @@
 Install KeeneticOS v3.7.4 for Xiaomi Mi Router 4A 100MB Lan
 
 
-- # Installation of Keenetic firmware.
+# Installation of Keenetic firmware.
 Tested on firmware `2.20.20, 2.20.21` and `3.0.129`
 
 - Steps:
